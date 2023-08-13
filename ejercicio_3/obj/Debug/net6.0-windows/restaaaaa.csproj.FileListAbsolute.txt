@@ -1,0 +1,17 @@
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\bin\Debug\net6.0-windows\restaaaaa.exe
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\bin\Debug\net6.0-windows\restaaaaa.deps.json
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\bin\Debug\net6.0-windows\restaaaaa.runtimeconfig.json
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\bin\Debug\net6.0-windows\restaaaaa.dll
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\bin\Debug\net6.0-windows\restaaaaa.pdb
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.Form1.resources
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.csproj.GenerateResource.cache
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.dll
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\refint\restaaaaa.dll
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.pdb
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\restaaaaa.genruntimeconfig.cache
+C:\Users\Windows10\Desktop\laboratorioprogra\restaaaaa\obj\Debug\net6.0-windows\ref\restaaaaa.dll

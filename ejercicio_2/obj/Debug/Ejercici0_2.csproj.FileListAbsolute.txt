@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\bin\Debug\Ejercici0_2.exe.config
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\bin\Debug\Ejercici0_2.exe
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\bin\Debug\Ejercici0_2.pdb
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.Form1.resources
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.exe
+C:\Users\MINEDUCYT\source\repos\Ejercici0_2\obj\Debug\Ejercici0_2.pdb
